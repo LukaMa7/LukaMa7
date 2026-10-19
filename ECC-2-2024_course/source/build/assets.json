@@ -1,0 +1,114 @@
+{
+ "net-diagram": {
+  "url": "/_blob/08d7c46b18bd4793bae55c8a26523270",
+  "alt": "مخطط شبكة: الشبكة الداخلية والمنطقة المنزوعة السلاح بينهما جداران ناريان",
+  "author": "Pbroks13",
+  "license": "ملكية عامة",
+  "site": "Wikimedia Commons"
+ },
+ "firewall-rules": {
+  "url": "/_blob/75805bf3721c9e1a70905613adea5e13",
+  "alt": "جدول قواعد جدار ناري مفتوح المصدر",
+  "author": "OPNsense documentation contributors · مقطع مكبّر",
+  "license": "BSD-2-Clause",
+  "site": "GitHub · opnsense/docs"
+ },
+ "port-scan": {
+  "url": "/_blob/6553e084dd61de4b57a681885435f058",
+  "alt": "أداة فحص منافذ تعرض المنافذ المفتوحة",
+  "author": "Am088 · Zenmap · مقطع مكبّر",
+  "license": "GPL-2.0+",
+  "site": "Wikimedia Commons"
+ },
+ "vuln-scan": {
+  "url": "/_blob/4ea88621e99509f9a7881630208a64c6",
+  "alt": "لوحة كشف الثغرات حسب الخطورة",
+  "author": "Wazuh, Inc. · مقطع مكبّر",
+  "license": "GPL-2.0+",
+  "site": "GitHub · wazuh/wazuh-documentation"
+ },
+ "siem-dashboard": {
+  "url": "/_blob/011b88c2d0284fa1817eca96df935d41",
+  "alt": "لوحة منصة مراقبة أمنية",
+  "author": "Wazuh, Inc. · مقطع مكبّر",
+  "license": "GPL-2.0+",
+  "site": "GitHub · wazuh/wazuh-documentation"
+ },
+ "password-vault": {
+  "url": "/_blob/73f1c55e066c05bed733d058871e8f2a",
+  "alt": "خزنة كلمات مرور مفتوحة المصدر ببيانات تجريبية",
+  "author": "KeePassXC Team",
+  "license": "GPL-2.0/3.0",
+  "site": "GitHub · keepassxreboot/keepassxc"
+ },
+ "mfa": {
+  "url": "/_blob/4d70b94c476e41e23ae4d58e8f40b0b1",
+  "alt": "مفتاح أمان مادي يُستخدم عاملاً ثانياً للتحقق",
+  "author": "Tony Webster",
+  "license": "CC BY 2.0",
+  "site": "Wikimedia Commons"
+ },
+ "disk-encryption": {
+  "url": "/_blob/2f8f7b46672e6c3fc6aea8ad29182a1c",
+  "alt": "خيار تشفير القرص الكامل عند تثبيت النظام",
+  "author": "Fedora Documentation contributors · مقطع مكبّر",
+  "license": "CC BY-SA 4.0",
+  "site": "docs.fedoraproject.org"
+ },
+ "tls-certificate": {
+  "url": "/_blob/30b6b78517d9111ed4c8fbad37a025b4",
+  "alt": "رمز القفل وhttps في شريط عنوان المتصفح",
+  "author": "Santeri Viinamäki",
+  "license": "CC BY-SA 4.0",
+  "site": "Wikimedia Commons"
+ },
+ "backup": {
+  "url": "/_blob/c03b7fb6bed6e85b1cd123fda265f9c7",
+  "alt": "النسخ المتاحة لملف في شاشة الاستعادة ببرنامج نسخ احتياطي",
+  "author": "Bareos GmbH & Co. KG · مقتطعة",
+  "license": "CC BY-SA 4.0",
+  "site": "Wikimedia Commons"
+ },
+ "asset-inventory": {
+  "url": "/_blob/6c0c3bc88562d3f2158cfc801949cfe4",
+  "alt": "لوحة أداة جرد أصول تقنية",
+  "author": "GLPI project (Teclib') · مقتطعة",
+  "license": "GPL-3.0",
+  "site": "GitHub · glpi-project/glpi"
+ },
+ "cctv": {
+  "url": "/_blob/1bc99b046f0dbd896e67ffd16b3677d9",
+  "alt": "كاميرا مراقبة مثبتة على جدار مبنى",
+  "author": "Kent Madsen",
+  "license": "CC BY-SA 2.0",
+  "site": "Wikimedia Commons"
+ },
+ "access-reader": {
+  "url": "/_blob/04b1174a46a3bc85ec44f4b0abfc41a8",
+  "alt": "قارئ بطاقات ولوحة رمز على باب منطقة مقيدة",
+  "author": "Ca.garcia.s",
+  "license": "CC BY-SA 4.0",
+  "site": "Wikimedia Commons"
+ },
+ "drive-destruction": {
+  "url": "/_blob/6c92a9c4d40353455f137a6e30c53832",
+  "alt": "قرص صلب أُتلف مادياً",
+  "author": "Jaroslaw B (Yarkob)",
+  "license": "CC BY-SA 4.0",
+  "site": "Wikimedia Commons"
+ },
+ "phishing-email": {
+  "url": "/_blob/7b6529f211bd2958c25d8abd7566cebf",
+  "alt": "مثال توضيحي لرسالة تصيد تنتحل بنكاً",
+  "author": "Isochrone، تعديل Belbury · مقطع مكبّر",
+  "license": "CC BY-SA 4.0",
+  "site": "Wikimedia Commons"
+ },
+ "tabletop-exercise": {
+  "url": "/_blob/5b6e7d716e582801618fb175ba7166f3",
+  "alt": "تمرين محاكاة مكتبي للاستجابة للحوادث السيبرانية",
+  "author": "U.S. Army National Guard · Sgt. Yohannes Mogos",
+  "license": "ملكية عامة",
+  "site": "Wikimedia Commons"
+ }
+}
