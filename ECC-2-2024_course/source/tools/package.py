@@ -4,7 +4,7 @@ import os, sys, shutil, glob
 SP = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DEST = sys.argv[1]
 ATT = os.path.join(SP, 'deliver', 'attachments')
-TRAINER = ('الحل_ومعيار_التصحيح', 'مفتاح', 'README_المرفقات')  # file names that stay with the trainer
+TRAINER = ('الحل_ومعيار_التصحيح', 'مفتاح', 'README_المرفقات', 'دليل_المدرب')  # file names that stay with the trainer
 
 def cp(src, dst):
     os.makedirs(os.path.dirname(dst), exist_ok=True)
@@ -44,6 +44,8 @@ SRC = [('build', '*.py'), ('build', '*.json'), ('case_tool', '*.py'), ('pptx_too
 for d, pat in SRC:
     for f in glob.glob(os.path.join(SP, d, pat)):
         cp(f, D('source', d, os.path.basename(f)))
+for f in glob.glob(os.path.join(SP, 'wb', '*.py')):
+    cp(f, D('source', 'wb', os.path.basename(f)))
 for fn in ['make_quiz_docs.py', 'make_reports.py', 'dumptext.py', 'overlap.cjs', 'split_codes.cjs', 'package.py']:
     cp(os.path.join(SP, 'tools', fn), D('source', 'tools', fn))
 shutil.copytree(os.path.join(SP, 'deck_new', 'project'), D('source', 'deck_html'))
